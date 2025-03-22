@@ -45,7 +45,7 @@ const TherapyModules: React.FC = () => {
     {
       id: '4',
       title: 'Building Resilience',
-      description: 'Develop skills to bounce back from life's challenges',
+      description: 'Develop skills to bounce back from life\'s challenges',
       duration: '25 min',
       progress: 0,
       category: 'depression',
